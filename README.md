@@ -2,8 +2,7 @@
 
 A premium, modern, and professional single-page developer portfolio designed to present a genuine, high-quality showcase for a B.Tech Computer Science Engineering student. Optimized for internship applications, LinkedIn profiles, college presentations, and placement preparation.
 
-🚀 **Live Demo:** [https://nikhilesh-portfolio.vercel.app](https://nikhilesh-portfolio.vercel.app) *(Replace with your deployed Vercel domain)*
-
+🚀 **Live Demo: https://portfolio-green-ten-87.vercel.app/
 ---
 
 ## 🎨 Visual Highlights & Aesthetics
